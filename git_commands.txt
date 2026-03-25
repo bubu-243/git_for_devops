@@ -6,4 +6,10 @@
    7 git commit -m "added testing files"
    8 git status
    9 ls
+<<<<<<< HEAD
    
+=======
+this is new changes
+>>>>>>> fade8187ac346a27cb2cb6c96a65d91c63c1c960
+
+
